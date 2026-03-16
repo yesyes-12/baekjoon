@@ -7,4 +7,3 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dawngu)](https://solved.ac/dawngu)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dawngu&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle=dawngu&theme=warm"/>
