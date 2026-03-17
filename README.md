@@ -13,8 +13,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 </div>
 <br>
 <div align="center">
-  <a href="https://solved.ac/yesyes-12"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dawngu" alt="Baekjoon Tier" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="http://mazandi.herokuapp.com/api?handle=dawngu&theme=dark" alt="Baekjoon Streak" />
+  <a href="https://solved.ac/dawngu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dawngu" alt="Baekjoon Tier" /></a>
+  &nbsp; <img src="http://mazandi.herokuapp.com/api?handle=dawngu&theme=dark" alt="Baekjoon Streak" />
 </div>
 <br>
 <div align="center">
